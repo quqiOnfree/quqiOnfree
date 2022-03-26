@@ -6,8 +6,8 @@
 
 ## Top Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quqiOnfreeL)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quqiOnfree)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Stats
 
-[![quqiOnfree_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=quqiOnfreeL)](https://github.com/anuraghazra/github-readme-stats)
+[![quqiOnfree_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=quqiOnfree)](https://github.com/anuraghazra/github-readme-stats)
